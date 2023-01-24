@@ -3,7 +3,7 @@
 	<h3>QA Engineer</h3>
 </div>
 <div id="socials" align="center">
-	<a href="telegram-url" https://t.me/fedyatrukhachev>
+	<a href="telegram-[url](https://t.me/fedyatrukhachev)">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
