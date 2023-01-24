@@ -2,10 +2,11 @@
 	<h1>Hi there, I'm Fedor</h1>
 	<h3>Full Stack Developer from New York</h3>
 </div>
-
-<a href="linkedin-url">
-	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<div id="socials" align="center">
+	<a href="telegram-url">
+		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+	</a>
+</div>
 
 
 <!--
